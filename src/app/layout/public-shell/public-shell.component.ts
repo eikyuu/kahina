@@ -2,6 +2,7 @@ import { Component, ChangeDetectionStrategy } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { MenubarModule } from 'primeng/menubar';
 import { Header } from "./header/header";
+import { Footer } from "./footer/footer";
 
 /**
  * Minimal layout wrapper for public (unauthenticated) pages.
@@ -10,7 +11,7 @@ import { Header } from "./header/header";
 @Component({
   selector: 'app-public-shell',
   changeDetection: ChangeDetectionStrategy.OnPush,
-  imports: [RouterOutlet, MenubarModule, Header],
+  imports: [RouterOutlet, MenubarModule, Header, Footer],
   styleUrl: './public-shell.component.scss',
   template: `
     <div class="public-shell">
@@ -24,14 +25,10 @@ import { Header } from "./header/header";
         <router-outlet />
       </main>
 
-      <footer class="footer" role="contentinfo">
-        <p>&copy; {{ year }} kahina. All rights reserved.</p>
-      </footer>
+      <app-footer/>
     </div>
   `,
 })
 export class PublicShellComponent {
-  protected readonly year = new Date().getFullYear();
   protected readonly background = 'background.webp';
-
 }
