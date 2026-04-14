@@ -1,0 +1,17 @@
+<p-card class="anime-card">
+    <ng-template #header>
+        <img
+            class="anime-card__image"
+            [src]="'https://img.youtube.com/vi/' + anime().youtubeVideoId + '/maxresdefault.jpg'"
+            [alt]="anime().title.fr || anime().title.en" />
+    </ng-template>
+    <ng-template #title>
+        <span class="anime-card__title">{{ anime().title.fr || anime().title.en }}</span>
+    </ng-template>
+    <ng-template #footer>
+        <p-button
+            label="Clique ici"
+            class="w-full"
+            (onClick)="cardClick.emit(anime())" />
+    </ng-template>
+</p-card>
