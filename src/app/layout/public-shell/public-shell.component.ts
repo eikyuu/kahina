@@ -3,6 +3,7 @@ import { RouterOutlet } from '@angular/router';
 import { MenubarModule } from 'primeng/menubar';
 import { Header } from "./header/header";
 import { Footer } from "./footer/footer";
+import { ImageModule } from 'primeng/image';
 
 /**
  * Minimal layout wrapper for public (unauthenticated) pages.
@@ -11,7 +12,7 @@ import { Footer } from "./footer/footer";
 @Component({
   selector: 'app-public-shell',
   changeDetection: ChangeDetectionStrategy.OnPush,
-  imports: [RouterOutlet, MenubarModule, Header, Footer],
+  imports: [RouterOutlet, MenubarModule, Header, Footer, ImageModule],
   styleUrl: './public-shell.component.scss',
   template: `
     <div class="public-shell">
@@ -19,7 +20,16 @@ import { Footer } from "./footer/footer";
       
       <app-header/>
 
-      <img [src]="background" alt="Kahina Logo" width="100%" height="100%" />
+
+      <div class="banner-container">
+        <p-image
+          class="banner"
+          [src]="banner"
+          alt="banner image"
+          width="100%"
+          height="auto"
+        />
+      </div>
 
       <main class="main" id="main-content" tabindex="-1">
         <router-outlet />
@@ -30,5 +40,5 @@ import { Footer } from "./footer/footer";
   `,
 })
 export class PublicShellComponent {
-  protected readonly background = 'background.webp';
+  protected readonly banner = 'background.webp';
 }

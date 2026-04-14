@@ -1,14 +1,16 @@
-import { Component, inject, signal } from '@angular/core';
+import { ChangeDetectionStrategy, Component, inject, signal } from '@angular/core';
 import { ArticlesCard } from "../articles-card/articles-card";
 import { ArticleService } from '../../services/article.service';
 import { toSignal } from '@angular/core/rxjs-interop';
 import { tap } from 'rxjs/internal/operators/tap';
+import { SlicePipe } from '@angular/common';
 
 @Component({
   selector: 'app-articles',
-  imports: [ArticlesCard],
+  imports: [ArticlesCard, SlicePipe],
   templateUrl: './article-list.html',
   styleUrl: './article-list.scss',
+  changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class ArticlesList {
 

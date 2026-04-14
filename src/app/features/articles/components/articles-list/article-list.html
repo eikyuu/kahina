@@ -1,3 +1,7 @@
-@for(article of articles(); track article.id) {
-    <app-card-articles />
-}
+<div class="grid mr-0">
+    @for(article of articles() | slice:0:6; track article.id) {
+    <div class="col-12 md:col-6 lg:col-4 flex p-3">
+        <app-card-articles [article]="article" />
+    </div>
+    }
+</div>
