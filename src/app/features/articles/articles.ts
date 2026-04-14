@@ -4,7 +4,15 @@ import { CardArticles } from "./components/card-articles/card-articles";
 @Component({
   selector: 'app-articles',
   imports: [CardArticles],
-  templateUrl: './articles.html',
+  templateUrl: './article-list.html',
   styleUrl: './articles.scss',
 })
-export class Articles {}
+export class Articles {
+
+
+
+
+
+
+
+}

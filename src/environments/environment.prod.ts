@@ -1,6 +1,8 @@
 export const environment = {
-  production: true,
-  apiUrl: 'https://api.kahina.app/api',
-  appName: 'kahina',
-  version: '0.0.0',
-} as const;
+    production: true,
+    baseUrlApi: 'http://kahina-api.com',
+    baseUrl: 'http://kahina.com',
+    // token expiré dans 1 ans
+    apiKey : '',
+    useMock : true,
+  };

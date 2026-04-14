@@ -1,4 +1,6 @@
-export const ARTICLES = {
+import { ArticleCollection } from '../models/article.model';
+
+export const ARTICLES: ArticleCollection = {
     "hydra:member": [
         {
             id: 1,
