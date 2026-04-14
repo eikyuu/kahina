@@ -1,0 +1,23393 @@
+export const ANIMES = [
+    //naruto-shipp
+    {
+        "createdAt": "2023-04-26T21:10:13+00:00",
+        "updatedAt": "2023-04-26T21:10:13+00:00",
+        "slug": "naruto-shippuden",
+        "synopsis": "L'histoire commence pendant l'adolescence de Naruto, vers ses douze ans. Orphelin cancre et grand farceur, il fait toutes les bêtises possibles pour se faire remarquer. Son rêve : devenir le meilleur Hokage afin d'être reconnu par les habitants de son village. En effet, le démon renard à neuf queues scellé en lui a attisé la crainte et le mépris des autres villageois, qui, avec le temps, ne font plus de différence entre Kyûbi et Naruto. Malgré cela, Naruto s'entraîne dur afin de devenir genin, le premier niveau chez les ninjas. Après avoir raté l'examen genin 3 fois, il arrive finalement à recevoir son bandeau frontal de Konoha. Il est alors inclus dans une équipe de trois apprentis ninjas, avec Sakura Haruno et le talentueux Sasuke Uchiwa qui veut venger les personnes chères à ses yeux, en tuant son frère Itachi Uchiwa. Peu après, ils rencontrent leur jōnin (ninja de classe supérieure), celui qui s'occupera de leur formation : le mystérieux Kakashi Hatake. Au début craint et méprisé par ses pairs, Naruto va peu à peu monter en puissance et gagner le respect et l'affection des villageois grâce, notamment, aux combats dantesques qu'il remportera face aux ennemis les plus puissants du monde ninja.",
+        "description": "L'origine de Naruto se déroule dans un monde rétro-futuriste où, bien que de nombreuses technologies modernes aient vu le jour, les ninjas et les samouraïs sont restés de véritables puissances militaires. Chaque pays a un village, qui représente la force militaire du pays, dirigé par un Kage. Les villages, à travers leurs ninjas, se livrent des guerres les uns aux autres, à petite ou grande échelle, que ce soit pour obtenir des caractéristiques avantageuses propres aux villages ennemis, ou pour soumettre un autre village et gagner en puissance. Dans ce monde ninja, il existe neuf créatures gigantesques, appelées les « Démons à queues », qui peuvent être scellées dans un humain après une cérémonie. L'humain devient un hôte et dispose alors de la puissance du démon. Douze années avant le début du récit, l'une de ces créatures attaque le village caché des feuilles du Pays du Feu, Konoha. Elle est capturée et la moitié de son esprit a été scellée dans un nouveau-né nommé Naruto Uzumaki par le quatrième Hokage : Minato Namikaze, faisant de lui le jinjûriki (hôte) du démon à neuf queues, Kyûbi.",
+        "type": "tv",
+        "canonicalTitle": "naruto-shippuden",
+        "averageRating": 2,
+        "userCount": 55,
+        "upVoteCount": 54,
+        "startDate": "2019-05-26T21:10:13+00:00",
+        "endDate": "2023-04-26T21:10:13+00:00",
+        "nextRelease": "2023-04-26T00:00:00+00:00",
+        "popularityRank": 4,
+        "ratingRank": 25,
+        "ageRating": "string",
+        "ageRatingGuide": "string",
+        "origin": "Japon",
+        "status": "Finished",
+        "episodeCount": 33,
+        "nbrSeason": 3,
+        "episodeLength": 23,
+        "totalLength": 722,
+        "youtubeVideoId": "-G9BqkgZXRA",
+        "nsfw": false,
+        "title": {
+            "@type": "Title",
+            "@id": "/api/.well-known/genid/5d056937817b59f0e7fb",
+            "en": "Naruto Shippuden",
+            "enJp": "Naruto Shippuden",
+            "jaJp": "NNaruto Shippuden",
+            "fr": "NNaruto Shippuden"
+        },
+        "genre": [
+            {
+                "@type": "Genre",
+                "@id": "/api/.well-known/genid/80dd11d60e117afd143a",
+                "name": "Ninja",
+                "description": "Ninja",
+                "totalMediaCount": 0,
+                "slug": "ninja",
+                "nsfw": true
+            },
+            {
+                "@type": "Genre",
+                "@id": "/api/.well-known/genid/80dd11d60e117afd143a",
+                "name": "Action",
+                "description": "Action",
+                "totalMediaCount": 0,
+                "slug": "action",
+                "nsfw": true
+            },
+            {
+                "@type": "Genre",
+                "@id": "/api/.well-known/genid/80dd11d60e117afd143a",
+                "name": "Aventure",
+                "description": "Aventure",
+                "totalMediaCount": 0,
+                "slug": "aventure",
+                "nsfw": true
+            },
+        ],
+        "episode": [
+            {
+                "@id": "/api/episodes/7",
+                "@type": "Episode",
+                "canonicalTitle": "string",
+                "seasonNumber": 0,
+                "number": 0,
+                "synopsis": "string",
+                "airdate": "2023-04-26T00:00:00+00:00",
+                "length": 0,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/2902080984b13f04e737",
+                    "en": "strssssssss ss ss ing",
+                    "enJp": "string",
+                    "jaJp": "string",
+                    "fr": "string"
+                },
+                "thumbnail": []
+            }
+        ],
+        "figure": [
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+        ],
+        "staff": [
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+        ],
+        "music": [
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "TOTO",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+        ],
+        "quote": [
+            {
+                "@type": "Quote",
+                "@id": "/api/.well-known/genid/e37a0bebca70735e49fa",
+                "content": "string"
+            }
+        ],
+        "streamingLink": [
+            {
+                "@type": "StreamingLink",
+                "@id": "/api/.well-known/genid/c31c6de7b71069445a1c",
+                "url": "string",
+                "name": "string"
+            }
+        ],
+        "license": {
+            "@type": "License",
+            "@id": "/api/.well-known/genid/d9e54d3e586de81298b0",
+            "name": "string",
+            "website": "string",
+            "slug": "string",
+            "licenseImage": [
+                {
+                    "@id": "/api/create-license-image-items/1",
+                    "@type": "create-license-image-item",
+                    "name": "4423178-6457e6459f37c240954162.jpeg"
+                },
+            ],
+        },
+
+        //TODO : utiliter ?
+        "theme": [
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "Tempo",
+                "slug": "tempo",
+                "description": "tempo"
+            },
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "string",
+                "slug": "string",
+                "description": "string"
+            },
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "string",
+                "slug": "string",
+                "description": "string"
+            },
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "string",
+                "slug": "string",
+                "description": "string"
+            }
+        ],
+        "studio": {
+            "@type": "Studio",
+            "@id": "/api/.well-known/genid/379b1c85bd8c6271af4b",
+            "slogan": "string",
+            "headOffice": "Mitsubishi",
+            "direction": "Mitsubishi",
+            "activity": "Mitsubishi",
+            "product": "Mitsubishi",
+            "parentCompany": "Mitsubishi",
+            "website": "string",
+            "slug": "Mitsubishi"
+        },
+        "showType": "tv",
+        "score": 8.9,
+        "favorite": 33,
+        "avis": [
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 3.3
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 3.3
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 3.3
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            }
+        ],
+        "posterImage": [
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+        ],
+        "coverImage": [
+            {
+                "@id": "/api/create-cover-image-items/1",
+                "@type": "create-cover-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            }
+        ],
+        "relationship": [
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    },
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "string"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    },
+
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                    
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+        ]
+    },
+    {
+        "createdAt": "2023-04-26T21:10:13+00:00",
+        "updatedAt": "2023-04-26T21:10:13+00:00",
+        "slug": "naruto-shippuden",
+        "synopsis": "L'histoire commence pendant l'adolescence de Naruto, vers ses douze ans. Orphelin cancre et grand farceur, il fait toutes les bêtises possibles pour se faire remarquer. Son rêve : devenir le meilleur Hokage afin d'être reconnu par les habitants de son village. En effet, le démon renard à neuf queues scellé en lui a attisé la crainte et le mépris des autres villageois, qui, avec le temps, ne font plus de différence entre Kyûbi et Naruto. Malgré cela, Naruto s'entraîne dur afin de devenir genin, le premier niveau chez les ninjas. Après avoir raté l'examen genin 3 fois, il arrive finalement à recevoir son bandeau frontal de Konoha. Il est alors inclus dans une équipe de trois apprentis ninjas, avec Sakura Haruno et le talentueux Sasuke Uchiwa qui veut venger les personnes chères à ses yeux, en tuant son frère Itachi Uchiwa. Peu après, ils rencontrent leur jōnin (ninja de classe supérieure), celui qui s'occupera de leur formation : le mystérieux Kakashi Hatake. Au début craint et méprisé par ses pairs, Naruto va peu à peu monter en puissance et gagner le respect et l'affection des villageois grâce, notamment, aux combats dantesques qu'il remportera face aux ennemis les plus puissants du monde ninja.",
+        "description": "L'origine de Naruto se déroule dans un monde rétro-futuriste où, bien que de nombreuses technologies modernes aient vu le jour, les ninjas et les samouraïs sont restés de véritables puissances militaires. Chaque pays a un village, qui représente la force militaire du pays, dirigé par un Kage. Les villages, à travers leurs ninjas, se livrent des guerres les uns aux autres, à petite ou grande échelle, que ce soit pour obtenir des caractéristiques avantageuses propres aux villages ennemis, ou pour soumettre un autre village et gagner en puissance. Dans ce monde ninja, il existe neuf créatures gigantesques, appelées les « Démons à queues », qui peuvent être scellées dans un humain après une cérémonie. L'humain devient un hôte et dispose alors de la puissance du démon. Douze années avant le début du récit, l'une de ces créatures attaque le village caché des feuilles du Pays du Feu, Konoha. Elle est capturée et la moitié de son esprit a été scellée dans un nouveau-né nommé Naruto Uzumaki par le quatrième Hokage : Minato Namikaze, faisant de lui le jinjûriki (hôte) du démon à neuf queues, Kyûbi.",
+        "type": "tv",
+        "canonicalTitle": "naruto-shippuden",
+        "averageRating": 2,
+        "userCount": 55,
+        "upVoteCount": 54,
+        "startDate": "2019-05-26T21:10:13+00:00",
+        "endDate": "2023-04-26T21:10:13+00:00",
+        "nextRelease": "2023-04-26T00:00:00+00:00",
+        "popularityRank": 4,
+        "ratingRank": 25,
+        "ageRating": "string",
+        "ageRatingGuide": "string",
+        "origin": "Japon",
+        "status": "Finished",
+        "episodeCount": 33,
+        "nbrSeason": 3,
+        "episodeLength": 23,
+        "totalLength": 722,
+        "youtubeVideoId": "-G9BqkgZXRA",
+        "nsfw": false,
+        "title": {
+            "@type": "Title",
+            "@id": "/api/.well-known/genid/5d056937817b59f0e7fb",
+            "en": "Naruto Shippuden",
+            "enJp": "Naruto Shippuden",
+            "jaJp": "NNaruto Shippuden",
+            "fr": "NNaruto Shippuden"
+        },
+        "genre": [
+            {
+                "@type": "Genre",
+                "@id": "/api/.well-known/genid/80dd11d60e117afd143a",
+                "name": "Ninja",
+                "description": "Ninja",
+                "totalMediaCount": 0,
+                "slug": "ninja",
+                "nsfw": true
+            },
+            {
+                "@type": "Genre",
+                "@id": "/api/.well-known/genid/80dd11d60e117afd143a",
+                "name": "Action",
+                "description": "Action",
+                "totalMediaCount": 0,
+                "slug": "action",
+                "nsfw": true
+            },
+            {
+                "@type": "Genre",
+                "@id": "/api/.well-known/genid/80dd11d60e117afd143a",
+                "name": "Aventure",
+                "description": "Aventure",
+                "totalMediaCount": 0,
+                "slug": "aventure",
+                "nsfw": true
+            },
+        ],
+        "episode": [
+            {
+                "@id": "/api/episodes/7",
+                "@type": "Episode",
+                "canonicalTitle": "string",
+                "seasonNumber": 0,
+                "number": 0,
+                "synopsis": "string",
+                "airdate": "2023-04-26T00:00:00+00:00",
+                "length": 0,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/2902080984b13f04e737",
+                    "en": "strssssssss ss ss ing",
+                    "enJp": "string",
+                    "jaJp": "string",
+                    "fr": "string"
+                },
+                "thumbnail": []
+            }
+        ],
+        "figure": [
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+        ],
+        "staff": [
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+        ],
+        "music": [
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "TOTO",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+        ],
+        "quote": [
+            {
+                "@type": "Quote",
+                "@id": "/api/.well-known/genid/e37a0bebca70735e49fa",
+                "content": "string"
+            }
+        ],
+        "streamingLink": [
+            {
+                "@type": "StreamingLink",
+                "@id": "/api/.well-known/genid/c31c6de7b71069445a1c",
+                "url": "string",
+                "name": "string"
+            }
+        ],
+        "license": {
+            "@type": "License",
+            "@id": "/api/.well-known/genid/d9e54d3e586de81298b0",
+            "name": "string",
+            "website": "string",
+            "slug": "string",
+            "licenseImage": [
+                {
+                    "@id": "/api/create-license-image-items/1",
+                    "@type": "create-license-image-item",
+                    "name": "4423178-6457e6459f37c240954162.jpeg"
+                },
+            ],
+        },
+
+        //TODO : utiliter ?
+        "theme": [
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "Tempo",
+                "slug": "tempo",
+                "description": "tempo"
+            },
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "string",
+                "slug": "string",
+                "description": "string"
+            },
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "string",
+                "slug": "string",
+                "description": "string"
+            },
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "string",
+                "slug": "string",
+                "description": "string"
+            }
+        ],
+        "studio": {
+            "@type": "Studio",
+            "@id": "/api/.well-known/genid/379b1c85bd8c6271af4b",
+            "slogan": "string",
+            "headOffice": "Mitsubishi",
+            "direction": "Mitsubishi",
+            "activity": "Mitsubishi",
+            "product": "Mitsubishi",
+            "parentCompany": "Mitsubishi",
+            "website": "string",
+            "slug": "Mitsubishi"
+        },
+        "showType": "tv",
+        "score": 8.9,
+        "favorite": 33,
+        "avis": [
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 3.3
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 3.3
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 3.3
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            }
+        ],
+        "posterImage": [
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+        ],
+        "coverImage": [
+            {
+                "@id": "/api/create-cover-image-items/1",
+                "@type": "create-cover-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            }
+        ],
+        "relationship": [
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    },
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "string"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    },
+
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                    
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+        ]
+    },
+    {
+        "createdAt": "2023-04-26T21:10:13+00:00",
+        "updatedAt": "2023-04-26T21:10:13+00:00",
+        "slug": "naruto-shippuden",
+        "synopsis": "L'histoire commence pendant l'adolescence de Naruto, vers ses douze ans. Orphelin cancre et grand farceur, il fait toutes les bêtises possibles pour se faire remarquer. Son rêve : devenir le meilleur Hokage afin d'être reconnu par les habitants de son village. En effet, le démon renard à neuf queues scellé en lui a attisé la crainte et le mépris des autres villageois, qui, avec le temps, ne font plus de différence entre Kyûbi et Naruto. Malgré cela, Naruto s'entraîne dur afin de devenir genin, le premier niveau chez les ninjas. Après avoir raté l'examen genin 3 fois, il arrive finalement à recevoir son bandeau frontal de Konoha. Il est alors inclus dans une équipe de trois apprentis ninjas, avec Sakura Haruno et le talentueux Sasuke Uchiwa qui veut venger les personnes chères à ses yeux, en tuant son frère Itachi Uchiwa. Peu après, ils rencontrent leur jōnin (ninja de classe supérieure), celui qui s'occupera de leur formation : le mystérieux Kakashi Hatake. Au début craint et méprisé par ses pairs, Naruto va peu à peu monter en puissance et gagner le respect et l'affection des villageois grâce, notamment, aux combats dantesques qu'il remportera face aux ennemis les plus puissants du monde ninja.",
+        "description": "L'origine de Naruto se déroule dans un monde rétro-futuriste où, bien que de nombreuses technologies modernes aient vu le jour, les ninjas et les samouraïs sont restés de véritables puissances militaires. Chaque pays a un village, qui représente la force militaire du pays, dirigé par un Kage. Les villages, à travers leurs ninjas, se livrent des guerres les uns aux autres, à petite ou grande échelle, que ce soit pour obtenir des caractéristiques avantageuses propres aux villages ennemis, ou pour soumettre un autre village et gagner en puissance. Dans ce monde ninja, il existe neuf créatures gigantesques, appelées les « Démons à queues », qui peuvent être scellées dans un humain après une cérémonie. L'humain devient un hôte et dispose alors de la puissance du démon. Douze années avant le début du récit, l'une de ces créatures attaque le village caché des feuilles du Pays du Feu, Konoha. Elle est capturée et la moitié de son esprit a été scellée dans un nouveau-né nommé Naruto Uzumaki par le quatrième Hokage : Minato Namikaze, faisant de lui le jinjûriki (hôte) du démon à neuf queues, Kyûbi.",
+        "type": "tv",
+        "canonicalTitle": "naruto-shippuden",
+        "averageRating": 2,
+        "userCount": 55,
+        "upVoteCount": 54,
+        "startDate": "2019-05-26T21:10:13+00:00",
+        "endDate": "2023-04-26T21:10:13+00:00",
+        "nextRelease": "2023-04-26T00:00:00+00:00",
+        "popularityRank": 4,
+        "ratingRank": 25,
+        "ageRating": "string",
+        "ageRatingGuide": "string",
+        "origin": "Japon",
+        "status": "Finished",
+        "episodeCount": 33,
+        "nbrSeason": 3,
+        "episodeLength": 23,
+        "totalLength": 722,
+        "youtubeVideoId": "-G9BqkgZXRA",
+        "nsfw": false,
+        "title": {
+            "@type": "Title",
+            "@id": "/api/.well-known/genid/5d056937817b59f0e7fb",
+            "en": "Naruto Shippuden",
+            "enJp": "Naruto Shippuden",
+            "jaJp": "NNaruto Shippuden",
+            "fr": "NNaruto Shippuden"
+        },
+        "genre": [
+            {
+                "@type": "Genre",
+                "@id": "/api/.well-known/genid/80dd11d60e117afd143a",
+                "name": "Ninja",
+                "description": "Ninja",
+                "totalMediaCount": 0,
+                "slug": "ninja",
+                "nsfw": true
+            },
+            {
+                "@type": "Genre",
+                "@id": "/api/.well-known/genid/80dd11d60e117afd143a",
+                "name": "Action",
+                "description": "Action",
+                "totalMediaCount": 0,
+                "slug": "action",
+                "nsfw": true
+            },
+            {
+                "@type": "Genre",
+                "@id": "/api/.well-known/genid/80dd11d60e117afd143a",
+                "name": "Aventure",
+                "description": "Aventure",
+                "totalMediaCount": 0,
+                "slug": "aventure",
+                "nsfw": true
+            },
+        ],
+        "episode": [
+            {
+                "@id": "/api/episodes/7",
+                "@type": "Episode",
+                "canonicalTitle": "string",
+                "seasonNumber": 0,
+                "number": 0,
+                "synopsis": "string",
+                "airdate": "2023-04-26T00:00:00+00:00",
+                "length": 0,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/2902080984b13f04e737",
+                    "en": "strssssssss ss ss ing",
+                    "enJp": "string",
+                    "jaJp": "string",
+                    "fr": "string"
+                },
+                "thumbnail": []
+            }
+        ],
+        "figure": [
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+        ],
+        "staff": [
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+        ],
+        "music": [
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "TOTO",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+        ],
+        "quote": [
+            {
+                "@type": "Quote",
+                "@id": "/api/.well-known/genid/e37a0bebca70735e49fa",
+                "content": "string"
+            }
+        ],
+        "streamingLink": [
+            {
+                "@type": "StreamingLink",
+                "@id": "/api/.well-known/genid/c31c6de7b71069445a1c",
+                "url": "string",
+                "name": "string"
+            }
+        ],
+        "license": {
+            "@type": "License",
+            "@id": "/api/.well-known/genid/d9e54d3e586de81298b0",
+            "name": "string",
+            "website": "string",
+            "slug": "string",
+            "licenseImage": [
+                {
+                    "@id": "/api/create-license-image-items/1",
+                    "@type": "create-license-image-item",
+                    "name": "4423178-6457e6459f37c240954162.jpeg"
+                },
+            ],
+        },
+
+        //TODO : utiliter ?
+        "theme": [
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "Tempo",
+                "slug": "tempo",
+                "description": "tempo"
+            },
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "string",
+                "slug": "string",
+                "description": "string"
+            },
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "string",
+                "slug": "string",
+                "description": "string"
+            },
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "string",
+                "slug": "string",
+                "description": "string"
+            }
+        ],
+        "studio": {
+            "@type": "Studio",
+            "@id": "/api/.well-known/genid/379b1c85bd8c6271af4b",
+            "slogan": "string",
+            "headOffice": "Mitsubishi",
+            "direction": "Mitsubishi",
+            "activity": "Mitsubishi",
+            "product": "Mitsubishi",
+            "parentCompany": "Mitsubishi",
+            "website": "string",
+            "slug": "Mitsubishi"
+        },
+        "showType": "tv",
+        "score": 8.9,
+        "favorite": 33,
+        "avis": [
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 3.3
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 3.3
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 3.3
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            }
+        ],
+        "posterImage": [
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+        ],
+        "coverImage": [
+            {
+                "@id": "/api/create-cover-image-items/1",
+                "@type": "create-cover-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            }
+        ],
+        "relationship": [
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    },
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "string"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    },
+
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                    
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+        ]
+    },
+    {
+        "createdAt": "2023-04-26T21:10:13+00:00",
+        "updatedAt": "2023-04-26T21:10:13+00:00",
+        "slug": "naruto-shippuden",
+        "synopsis": "L'histoire commence pendant l'adolescence de Naruto, vers ses douze ans. Orphelin cancre et grand farceur, il fait toutes les bêtises possibles pour se faire remarquer. Son rêve : devenir le meilleur Hokage afin d'être reconnu par les habitants de son village. En effet, le démon renard à neuf queues scellé en lui a attisé la crainte et le mépris des autres villageois, qui, avec le temps, ne font plus de différence entre Kyûbi et Naruto. Malgré cela, Naruto s'entraîne dur afin de devenir genin, le premier niveau chez les ninjas. Après avoir raté l'examen genin 3 fois, il arrive finalement à recevoir son bandeau frontal de Konoha. Il est alors inclus dans une équipe de trois apprentis ninjas, avec Sakura Haruno et le talentueux Sasuke Uchiwa qui veut venger les personnes chères à ses yeux, en tuant son frère Itachi Uchiwa. Peu après, ils rencontrent leur jōnin (ninja de classe supérieure), celui qui s'occupera de leur formation : le mystérieux Kakashi Hatake. Au début craint et méprisé par ses pairs, Naruto va peu à peu monter en puissance et gagner le respect et l'affection des villageois grâce, notamment, aux combats dantesques qu'il remportera face aux ennemis les plus puissants du monde ninja.",
+        "description": "L'origine de Naruto se déroule dans un monde rétro-futuriste où, bien que de nombreuses technologies modernes aient vu le jour, les ninjas et les samouraïs sont restés de véritables puissances militaires. Chaque pays a un village, qui représente la force militaire du pays, dirigé par un Kage. Les villages, à travers leurs ninjas, se livrent des guerres les uns aux autres, à petite ou grande échelle, que ce soit pour obtenir des caractéristiques avantageuses propres aux villages ennemis, ou pour soumettre un autre village et gagner en puissance. Dans ce monde ninja, il existe neuf créatures gigantesques, appelées les « Démons à queues », qui peuvent être scellées dans un humain après une cérémonie. L'humain devient un hôte et dispose alors de la puissance du démon. Douze années avant le début du récit, l'une de ces créatures attaque le village caché des feuilles du Pays du Feu, Konoha. Elle est capturée et la moitié de son esprit a été scellée dans un nouveau-né nommé Naruto Uzumaki par le quatrième Hokage : Minato Namikaze, faisant de lui le jinjûriki (hôte) du démon à neuf queues, Kyûbi.",
+        "type": "tv",
+        "canonicalTitle": "naruto-shippuden",
+        "averageRating": 2,
+        "userCount": 55,
+        "upVoteCount": 54,
+        "startDate": "2019-05-26T21:10:13+00:00",
+        "endDate": "2023-04-26T21:10:13+00:00",
+        "nextRelease": "2023-04-26T00:00:00+00:00",
+        "popularityRank": 4,
+        "ratingRank": 25,
+        "ageRating": "string",
+        "ageRatingGuide": "string",
+        "origin": "Japon",
+        "status": "Finished",
+        "episodeCount": 33,
+        "nbrSeason": 3,
+        "episodeLength": 23,
+        "totalLength": 722,
+        "youtubeVideoId": "-G9BqkgZXRA",
+        "nsfw": false,
+        "title": {
+            "@type": "Title",
+            "@id": "/api/.well-known/genid/5d056937817b59f0e7fb",
+            "en": "Naruto Shippuden",
+            "enJp": "Naruto Shippuden",
+            "jaJp": "NNaruto Shippuden",
+            "fr": "NNaruto Shippuden"
+        },
+        "genre": [
+            {
+                "@type": "Genre",
+                "@id": "/api/.well-known/genid/80dd11d60e117afd143a",
+                "name": "Ninja",
+                "description": "Ninja",
+                "totalMediaCount": 0,
+                "slug": "ninja",
+                "nsfw": true
+            },
+            {
+                "@type": "Genre",
+                "@id": "/api/.well-known/genid/80dd11d60e117afd143a",
+                "name": "Action",
+                "description": "Action",
+                "totalMediaCount": 0,
+                "slug": "action",
+                "nsfw": true
+            },
+            {
+                "@type": "Genre",
+                "@id": "/api/.well-known/genid/80dd11d60e117afd143a",
+                "name": "Aventure",
+                "description": "Aventure",
+                "totalMediaCount": 0,
+                "slug": "aventure",
+                "nsfw": true
+            },
+        ],
+        "episode": [
+            {
+                "@id": "/api/episodes/7",
+                "@type": "Episode",
+                "canonicalTitle": "string",
+                "seasonNumber": 0,
+                "number": 0,
+                "synopsis": "string",
+                "airdate": "2023-04-26T00:00:00+00:00",
+                "length": 0,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/2902080984b13f04e737",
+                    "en": "strssssssss ss ss ing",
+                    "enJp": "string",
+                    "jaJp": "string",
+                    "fr": "string"
+                },
+                "thumbnail": []
+            }
+        ],
+        "figure": [
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+        ],
+        "staff": [
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+        ],
+        "music": [
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "TOTO",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+        ],
+        "quote": [
+            {
+                "@type": "Quote",
+                "@id": "/api/.well-known/genid/e37a0bebca70735e49fa",
+                "content": "string"
+            }
+        ],
+        "streamingLink": [
+            {
+                "@type": "StreamingLink",
+                "@id": "/api/.well-known/genid/c31c6de7b71069445a1c",
+                "url": "string",
+                "name": "string"
+            }
+        ],
+        "license": {
+            "@type": "License",
+            "@id": "/api/.well-known/genid/d9e54d3e586de81298b0",
+            "name": "string",
+            "website": "string",
+            "slug": "string",
+            "licenseImage": [
+                {
+                    "@id": "/api/create-license-image-items/1",
+                    "@type": "create-license-image-item",
+                    "name": "4423178-6457e6459f37c240954162.jpeg"
+                },
+            ],
+        },
+
+        //TODO : utiliter ?
+        "theme": [
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "Tempo",
+                "slug": "tempo",
+                "description": "tempo"
+            },
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "string",
+                "slug": "string",
+                "description": "string"
+            },
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "string",
+                "slug": "string",
+                "description": "string"
+            },
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "string",
+                "slug": "string",
+                "description": "string"
+            }
+        ],
+        "studio": {
+            "@type": "Studio",
+            "@id": "/api/.well-known/genid/379b1c85bd8c6271af4b",
+            "slogan": "string",
+            "headOffice": "Mitsubishi",
+            "direction": "Mitsubishi",
+            "activity": "Mitsubishi",
+            "product": "Mitsubishi",
+            "parentCompany": "Mitsubishi",
+            "website": "string",
+            "slug": "Mitsubishi"
+        },
+        "showType": "tv",
+        "score": 8.9,
+        "favorite": 33,
+        "avis": [
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 3.3
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 3.3
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 3.3
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            }
+        ],
+        "posterImage": [
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+        ],
+        "coverImage": [
+            {
+                "@id": "/api/create-cover-image-items/1",
+                "@type": "create-cover-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            }
+        ],
+        "relationship": [
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    },
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "string"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    },
+
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                    
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+        ]
+    },
+    {
+        "createdAt": "2023-04-26T21:10:13+00:00",
+        "updatedAt": "2023-04-26T21:10:13+00:00",
+        "slug": "naruto-shippuden",
+        "synopsis": "L'histoire commence pendant l'adolescence de Naruto, vers ses douze ans. Orphelin cancre et grand farceur, il fait toutes les bêtises possibles pour se faire remarquer. Son rêve : devenir le meilleur Hokage afin d'être reconnu par les habitants de son village. En effet, le démon renard à neuf queues scellé en lui a attisé la crainte et le mépris des autres villageois, qui, avec le temps, ne font plus de différence entre Kyûbi et Naruto. Malgré cela, Naruto s'entraîne dur afin de devenir genin, le premier niveau chez les ninjas. Après avoir raté l'examen genin 3 fois, il arrive finalement à recevoir son bandeau frontal de Konoha. Il est alors inclus dans une équipe de trois apprentis ninjas, avec Sakura Haruno et le talentueux Sasuke Uchiwa qui veut venger les personnes chères à ses yeux, en tuant son frère Itachi Uchiwa. Peu après, ils rencontrent leur jōnin (ninja de classe supérieure), celui qui s'occupera de leur formation : le mystérieux Kakashi Hatake. Au début craint et méprisé par ses pairs, Naruto va peu à peu monter en puissance et gagner le respect et l'affection des villageois grâce, notamment, aux combats dantesques qu'il remportera face aux ennemis les plus puissants du monde ninja.",
+        "description": "L'origine de Naruto se déroule dans un monde rétro-futuriste où, bien que de nombreuses technologies modernes aient vu le jour, les ninjas et les samouraïs sont restés de véritables puissances militaires. Chaque pays a un village, qui représente la force militaire du pays, dirigé par un Kage. Les villages, à travers leurs ninjas, se livrent des guerres les uns aux autres, à petite ou grande échelle, que ce soit pour obtenir des caractéristiques avantageuses propres aux villages ennemis, ou pour soumettre un autre village et gagner en puissance. Dans ce monde ninja, il existe neuf créatures gigantesques, appelées les « Démons à queues », qui peuvent être scellées dans un humain après une cérémonie. L'humain devient un hôte et dispose alors de la puissance du démon. Douze années avant le début du récit, l'une de ces créatures attaque le village caché des feuilles du Pays du Feu, Konoha. Elle est capturée et la moitié de son esprit a été scellée dans un nouveau-né nommé Naruto Uzumaki par le quatrième Hokage : Minato Namikaze, faisant de lui le jinjûriki (hôte) du démon à neuf queues, Kyûbi.",
+        "type": "tv",
+        "canonicalTitle": "naruto-shippuden",
+        "averageRating": 2,
+        "userCount": 55,
+        "upVoteCount": 54,
+        "startDate": "2019-05-26T21:10:13+00:00",
+        "endDate": "2023-04-26T21:10:13+00:00",
+        "nextRelease": "2023-04-26T00:00:00+00:00",
+        "popularityRank": 4,
+        "ratingRank": 25,
+        "ageRating": "string",
+        "ageRatingGuide": "string",
+        "origin": "Japon",
+        "status": "Finished",
+        "episodeCount": 33,
+        "nbrSeason": 3,
+        "episodeLength": 23,
+        "totalLength": 722,
+        "youtubeVideoId": "-G9BqkgZXRA",
+        "nsfw": false,
+        "title": {
+            "@type": "Title",
+            "@id": "/api/.well-known/genid/5d056937817b59f0e7fb",
+            "en": "Naruto Shippuden",
+            "enJp": "Naruto Shippuden",
+            "jaJp": "NNaruto Shippuden",
+            "fr": "NNaruto Shippuden"
+        },
+        "genre": [
+            {
+                "@type": "Genre",
+                "@id": "/api/.well-known/genid/80dd11d60e117afd143a",
+                "name": "Ninja",
+                "description": "Ninja",
+                "totalMediaCount": 0,
+                "slug": "ninja",
+                "nsfw": true
+            },
+            {
+                "@type": "Genre",
+                "@id": "/api/.well-known/genid/80dd11d60e117afd143a",
+                "name": "Action",
+                "description": "Action",
+                "totalMediaCount": 0,
+                "slug": "action",
+                "nsfw": true
+            },
+            {
+                "@type": "Genre",
+                "@id": "/api/.well-known/genid/80dd11d60e117afd143a",
+                "name": "Aventure",
+                "description": "Aventure",
+                "totalMediaCount": 0,
+                "slug": "aventure",
+                "nsfw": true
+            },
+        ],
+        "episode": [
+            {
+                "@id": "/api/episodes/7",
+                "@type": "Episode",
+                "canonicalTitle": "string",
+                "seasonNumber": 0,
+                "number": 0,
+                "synopsis": "string",
+                "airdate": "2023-04-26T00:00:00+00:00",
+                "length": 0,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/2902080984b13f04e737",
+                    "en": "strssssssss ss ss ing",
+                    "enJp": "string",
+                    "jaJp": "string",
+                    "fr": "string"
+                },
+                "thumbnail": []
+            }
+        ],
+        "figure": [
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+        ],
+        "staff": [
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+        ],
+        "music": [
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "TOTO",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+        ],
+        "quote": [
+            {
+                "@type": "Quote",
+                "@id": "/api/.well-known/genid/e37a0bebca70735e49fa",
+                "content": "string"
+            }
+        ],
+        "streamingLink": [
+            {
+                "@type": "StreamingLink",
+                "@id": "/api/.well-known/genid/c31c6de7b71069445a1c",
+                "url": "string",
+                "name": "string"
+            }
+        ],
+        "license": {
+            "@type": "License",
+            "@id": "/api/.well-known/genid/d9e54d3e586de81298b0",
+            "name": "string",
+            "website": "string",
+            "slug": "string",
+            "licenseImage": [
+                {
+                    "@id": "/api/create-license-image-items/1",
+                    "@type": "create-license-image-item",
+                    "name": "4423178-6457e6459f37c240954162.jpeg"
+                },
+            ],
+        },
+
+        //TODO : utiliter ?
+        "theme": [
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "Tempo",
+                "slug": "tempo",
+                "description": "tempo"
+            },
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "string",
+                "slug": "string",
+                "description": "string"
+            },
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "string",
+                "slug": "string",
+                "description": "string"
+            },
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "string",
+                "slug": "string",
+                "description": "string"
+            }
+        ],
+        "studio": {
+            "@type": "Studio",
+            "@id": "/api/.well-known/genid/379b1c85bd8c6271af4b",
+            "slogan": "string",
+            "headOffice": "Mitsubishi",
+            "direction": "Mitsubishi",
+            "activity": "Mitsubishi",
+            "product": "Mitsubishi",
+            "parentCompany": "Mitsubishi",
+            "website": "string",
+            "slug": "Mitsubishi"
+        },
+        "showType": "tv",
+        "score": 8.9,
+        "favorite": 33,
+        "avis": [
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 3.3
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 3.3
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 3.3
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            }
+        ],
+        "posterImage": [
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+        ],
+        "coverImage": [
+            {
+                "@id": "/api/create-cover-image-items/1",
+                "@type": "create-cover-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            }
+        ],
+        "relationship": [
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    },
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "string"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    },
+
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                    
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+        ]
+    },
+    {
+        "createdAt": "2023-04-26T21:10:13+00:00",
+        "updatedAt": "2023-04-26T21:10:13+00:00",
+        "slug": "naruto-shippuden",
+        "synopsis": "L'histoire commence pendant l'adolescence de Naruto, vers ses douze ans. Orphelin cancre et grand farceur, il fait toutes les bêtises possibles pour se faire remarquer. Son rêve : devenir le meilleur Hokage afin d'être reconnu par les habitants de son village. En effet, le démon renard à neuf queues scellé en lui a attisé la crainte et le mépris des autres villageois, qui, avec le temps, ne font plus de différence entre Kyûbi et Naruto. Malgré cela, Naruto s'entraîne dur afin de devenir genin, le premier niveau chez les ninjas. Après avoir raté l'examen genin 3 fois, il arrive finalement à recevoir son bandeau frontal de Konoha. Il est alors inclus dans une équipe de trois apprentis ninjas, avec Sakura Haruno et le talentueux Sasuke Uchiwa qui veut venger les personnes chères à ses yeux, en tuant son frère Itachi Uchiwa. Peu après, ils rencontrent leur jōnin (ninja de classe supérieure), celui qui s'occupera de leur formation : le mystérieux Kakashi Hatake. Au début craint et méprisé par ses pairs, Naruto va peu à peu monter en puissance et gagner le respect et l'affection des villageois grâce, notamment, aux combats dantesques qu'il remportera face aux ennemis les plus puissants du monde ninja.",
+        "description": "L'origine de Naruto se déroule dans un monde rétro-futuriste où, bien que de nombreuses technologies modernes aient vu le jour, les ninjas et les samouraïs sont restés de véritables puissances militaires. Chaque pays a un village, qui représente la force militaire du pays, dirigé par un Kage. Les villages, à travers leurs ninjas, se livrent des guerres les uns aux autres, à petite ou grande échelle, que ce soit pour obtenir des caractéristiques avantageuses propres aux villages ennemis, ou pour soumettre un autre village et gagner en puissance. Dans ce monde ninja, il existe neuf créatures gigantesques, appelées les « Démons à queues », qui peuvent être scellées dans un humain après une cérémonie. L'humain devient un hôte et dispose alors de la puissance du démon. Douze années avant le début du récit, l'une de ces créatures attaque le village caché des feuilles du Pays du Feu, Konoha. Elle est capturée et la moitié de son esprit a été scellée dans un nouveau-né nommé Naruto Uzumaki par le quatrième Hokage : Minato Namikaze, faisant de lui le jinjûriki (hôte) du démon à neuf queues, Kyûbi.",
+        "type": "tv",
+        "canonicalTitle": "naruto-shippuden",
+        "averageRating": 2,
+        "userCount": 55,
+        "upVoteCount": 54,
+        "startDate": "2019-05-26T21:10:13+00:00",
+        "endDate": "2023-04-26T21:10:13+00:00",
+        "nextRelease": "2023-04-26T00:00:00+00:00",
+        "popularityRank": 4,
+        "ratingRank": 25,
+        "ageRating": "string",
+        "ageRatingGuide": "string",
+        "origin": "Japon",
+        "status": "Finished",
+        "episodeCount": 33,
+        "nbrSeason": 3,
+        "episodeLength": 23,
+        "totalLength": 722,
+        "youtubeVideoId": "-G9BqkgZXRA",
+        "nsfw": false,
+        "title": {
+            "@type": "Title",
+            "@id": "/api/.well-known/genid/5d056937817b59f0e7fb",
+            "en": "Naruto Shippuden",
+            "enJp": "Naruto Shippuden",
+            "jaJp": "NNaruto Shippuden",
+            "fr": "NNaruto Shippuden"
+        },
+        "genre": [
+            {
+                "@type": "Genre",
+                "@id": "/api/.well-known/genid/80dd11d60e117afd143a",
+                "name": "Ninja",
+                "description": "Ninja",
+                "totalMediaCount": 0,
+                "slug": "ninja",
+                "nsfw": true
+            },
+            {
+                "@type": "Genre",
+                "@id": "/api/.well-known/genid/80dd11d60e117afd143a",
+                "name": "Action",
+                "description": "Action",
+                "totalMediaCount": 0,
+                "slug": "action",
+                "nsfw": true
+            },
+            {
+                "@type": "Genre",
+                "@id": "/api/.well-known/genid/80dd11d60e117afd143a",
+                "name": "Aventure",
+                "description": "Aventure",
+                "totalMediaCount": 0,
+                "slug": "aventure",
+                "nsfw": true
+            },
+        ],
+        "episode": [
+            {
+                "@id": "/api/episodes/7",
+                "@type": "Episode",
+                "canonicalTitle": "string",
+                "seasonNumber": 0,
+                "number": 0,
+                "synopsis": "string",
+                "airdate": "2023-04-26T00:00:00+00:00",
+                "length": 0,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/2902080984b13f04e737",
+                    "en": "strssssssss ss ss ing",
+                    "enJp": "string",
+                    "jaJp": "string",
+                    "fr": "string"
+                },
+                "thumbnail": []
+            }
+        ],
+        "figure": [
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+        ],
+        "staff": [
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+        ],
+        "music": [
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "TOTO",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+        ],
+        "quote": [
+            {
+                "@type": "Quote",
+                "@id": "/api/.well-known/genid/e37a0bebca70735e49fa",
+                "content": "string"
+            }
+        ],
+        "streamingLink": [
+            {
+                "@type": "StreamingLink",
+                "@id": "/api/.well-known/genid/c31c6de7b71069445a1c",
+                "url": "string",
+                "name": "string"
+            }
+        ],
+        "license": {
+            "@type": "License",
+            "@id": "/api/.well-known/genid/d9e54d3e586de81298b0",
+            "name": "string",
+            "website": "string",
+            "slug": "string",
+            "licenseImage": [
+                {
+                    "@id": "/api/create-license-image-items/1",
+                    "@type": "create-license-image-item",
+                    "name": "4423178-6457e6459f37c240954162.jpeg"
+                },
+            ],
+        },
+
+        //TODO : utiliter ?
+        "theme": [
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "Tempo",
+                "slug": "tempo",
+                "description": "tempo"
+            },
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "string",
+                "slug": "string",
+                "description": "string"
+            },
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "string",
+                "slug": "string",
+                "description": "string"
+            },
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "string",
+                "slug": "string",
+                "description": "string"
+            }
+        ],
+        "studio": {
+            "@type": "Studio",
+            "@id": "/api/.well-known/genid/379b1c85bd8c6271af4b",
+            "slogan": "string",
+            "headOffice": "Mitsubishi",
+            "direction": "Mitsubishi",
+            "activity": "Mitsubishi",
+            "product": "Mitsubishi",
+            "parentCompany": "Mitsubishi",
+            "website": "string",
+            "slug": "Mitsubishi"
+        },
+        "showType": "tv",
+        "score": 8.9,
+        "favorite": 33,
+        "avis": [
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 3.3
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 3.3
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 3.3
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            }
+        ],
+        "posterImage": [
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+        ],
+        "coverImage": [
+            {
+                "@id": "/api/create-cover-image-items/1",
+                "@type": "create-cover-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            }
+        ],
+        "relationship": [
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    },
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "string"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    },
+
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                    
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+        ]
+    },
+    {
+        "createdAt": "2023-04-26T21:10:13+00:00",
+        "updatedAt": "2023-04-26T21:10:13+00:00",
+        "slug": "naruto-shippuden",
+        "synopsis": "L'histoire commence pendant l'adolescence de Naruto, vers ses douze ans. Orphelin cancre et grand farceur, il fait toutes les bêtises possibles pour se faire remarquer. Son rêve : devenir le meilleur Hokage afin d'être reconnu par les habitants de son village. En effet, le démon renard à neuf queues scellé en lui a attisé la crainte et le mépris des autres villageois, qui, avec le temps, ne font plus de différence entre Kyûbi et Naruto. Malgré cela, Naruto s'entraîne dur afin de devenir genin, le premier niveau chez les ninjas. Après avoir raté l'examen genin 3 fois, il arrive finalement à recevoir son bandeau frontal de Konoha. Il est alors inclus dans une équipe de trois apprentis ninjas, avec Sakura Haruno et le talentueux Sasuke Uchiwa qui veut venger les personnes chères à ses yeux, en tuant son frère Itachi Uchiwa. Peu après, ils rencontrent leur jōnin (ninja de classe supérieure), celui qui s'occupera de leur formation : le mystérieux Kakashi Hatake. Au début craint et méprisé par ses pairs, Naruto va peu à peu monter en puissance et gagner le respect et l'affection des villageois grâce, notamment, aux combats dantesques qu'il remportera face aux ennemis les plus puissants du monde ninja.",
+        "description": "L'origine de Naruto se déroule dans un monde rétro-futuriste où, bien que de nombreuses technologies modernes aient vu le jour, les ninjas et les samouraïs sont restés de véritables puissances militaires. Chaque pays a un village, qui représente la force militaire du pays, dirigé par un Kage. Les villages, à travers leurs ninjas, se livrent des guerres les uns aux autres, à petite ou grande échelle, que ce soit pour obtenir des caractéristiques avantageuses propres aux villages ennemis, ou pour soumettre un autre village et gagner en puissance. Dans ce monde ninja, il existe neuf créatures gigantesques, appelées les « Démons à queues », qui peuvent être scellées dans un humain après une cérémonie. L'humain devient un hôte et dispose alors de la puissance du démon. Douze années avant le début du récit, l'une de ces créatures attaque le village caché des feuilles du Pays du Feu, Konoha. Elle est capturée et la moitié de son esprit a été scellée dans un nouveau-né nommé Naruto Uzumaki par le quatrième Hokage : Minato Namikaze, faisant de lui le jinjûriki (hôte) du démon à neuf queues, Kyûbi.",
+        "type": "tv",
+        "canonicalTitle": "naruto-shippuden",
+        "averageRating": 2,
+        "userCount": 55,
+        "upVoteCount": 54,
+        "startDate": "2019-05-26T21:10:13+00:00",
+        "endDate": "2023-04-26T21:10:13+00:00",
+        "nextRelease": "2023-04-26T00:00:00+00:00",
+        "popularityRank": 4,
+        "ratingRank": 25,
+        "ageRating": "string",
+        "ageRatingGuide": "string",
+        "origin": "Japon",
+        "status": "Finished",
+        "episodeCount": 33,
+        "nbrSeason": 3,
+        "episodeLength": 23,
+        "totalLength": 722,
+        "youtubeVideoId": "-G9BqkgZXRA",
+        "nsfw": false,
+        "title": {
+            "@type": "Title",
+            "@id": "/api/.well-known/genid/5d056937817b59f0e7fb",
+            "en": "Naruto Shippuden",
+            "enJp": "Naruto Shippuden",
+            "jaJp": "NNaruto Shippuden",
+            "fr": "NNaruto Shippuden"
+        },
+        "genre": [
+            {
+                "@type": "Genre",
+                "@id": "/api/.well-known/genid/80dd11d60e117afd143a",
+                "name": "Ninja",
+                "description": "Ninja",
+                "totalMediaCount": 0,
+                "slug": "ninja",
+                "nsfw": true
+            },
+            {
+                "@type": "Genre",
+                "@id": "/api/.well-known/genid/80dd11d60e117afd143a",
+                "name": "Action",
+                "description": "Action",
+                "totalMediaCount": 0,
+                "slug": "action",
+                "nsfw": true
+            },
+            {
+                "@type": "Genre",
+                "@id": "/api/.well-known/genid/80dd11d60e117afd143a",
+                "name": "Aventure",
+                "description": "Aventure",
+                "totalMediaCount": 0,
+                "slug": "aventure",
+                "nsfw": true
+            },
+        ],
+        "episode": [
+            {
+                "@id": "/api/episodes/7",
+                "@type": "Episode",
+                "canonicalTitle": "string",
+                "seasonNumber": 0,
+                "number": 0,
+                "synopsis": "string",
+                "airdate": "2023-04-26T00:00:00+00:00",
+                "length": 0,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/2902080984b13f04e737",
+                    "en": "strssssssss ss ss ing",
+                    "enJp": "string",
+                    "jaJp": "string",
+                    "fr": "string"
+                },
+                "thumbnail": []
+            }
+        ],
+        "figure": [
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+        ],
+        "staff": [
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+        ],
+        "music": [
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "TOTO",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+        ],
+        "quote": [
+            {
+                "@type": "Quote",
+                "@id": "/api/.well-known/genid/e37a0bebca70735e49fa",
+                "content": "string"
+            }
+        ],
+        "streamingLink": [
+            {
+                "@type": "StreamingLink",
+                "@id": "/api/.well-known/genid/c31c6de7b71069445a1c",
+                "url": "string",
+                "name": "string"
+            }
+        ],
+        "license": {
+            "@type": "License",
+            "@id": "/api/.well-known/genid/d9e54d3e586de81298b0",
+            "name": "string",
+            "website": "string",
+            "slug": "string",
+            "licenseImage": [
+                {
+                    "@id": "/api/create-license-image-items/1",
+                    "@type": "create-license-image-item",
+                    "name": "4423178-6457e6459f37c240954162.jpeg"
+                },
+            ],
+        },
+
+        //TODO : utiliter ?
+        "theme": [
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "Tempo",
+                "slug": "tempo",
+                "description": "tempo"
+            },
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "string",
+                "slug": "string",
+                "description": "string"
+            },
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "string",
+                "slug": "string",
+                "description": "string"
+            },
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "string",
+                "slug": "string",
+                "description": "string"
+            }
+        ],
+        "studio": {
+            "@type": "Studio",
+            "@id": "/api/.well-known/genid/379b1c85bd8c6271af4b",
+            "slogan": "string",
+            "headOffice": "Mitsubishi",
+            "direction": "Mitsubishi",
+            "activity": "Mitsubishi",
+            "product": "Mitsubishi",
+            "parentCompany": "Mitsubishi",
+            "website": "string",
+            "slug": "Mitsubishi"
+        },
+        "showType": "tv",
+        "score": 8.9,
+        "favorite": 33,
+        "avis": [
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 3.3
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 3.3
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 3.3
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            }
+        ],
+        "posterImage": [
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+        ],
+        "coverImage": [
+            {
+                "@id": "/api/create-cover-image-items/1",
+                "@type": "create-cover-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            }
+        ],
+        "relationship": [
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    },
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "string"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    },
+
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                    
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+        ]
+    },
+    {
+        "createdAt": "2023-04-26T21:10:13+00:00",
+        "updatedAt": "2023-04-26T21:10:13+00:00",
+        "slug": "naruto-shippuden",
+        "synopsis": "L'histoire commence pendant l'adolescence de Naruto, vers ses douze ans. Orphelin cancre et grand farceur, il fait toutes les bêtises possibles pour se faire remarquer. Son rêve : devenir le meilleur Hokage afin d'être reconnu par les habitants de son village. En effet, le démon renard à neuf queues scellé en lui a attisé la crainte et le mépris des autres villageois, qui, avec le temps, ne font plus de différence entre Kyûbi et Naruto. Malgré cela, Naruto s'entraîne dur afin de devenir genin, le premier niveau chez les ninjas. Après avoir raté l'examen genin 3 fois, il arrive finalement à recevoir son bandeau frontal de Konoha. Il est alors inclus dans une équipe de trois apprentis ninjas, avec Sakura Haruno et le talentueux Sasuke Uchiwa qui veut venger les personnes chères à ses yeux, en tuant son frère Itachi Uchiwa. Peu après, ils rencontrent leur jōnin (ninja de classe supérieure), celui qui s'occupera de leur formation : le mystérieux Kakashi Hatake. Au début craint et méprisé par ses pairs, Naruto va peu à peu monter en puissance et gagner le respect et l'affection des villageois grâce, notamment, aux combats dantesques qu'il remportera face aux ennemis les plus puissants du monde ninja.",
+        "description": "L'origine de Naruto se déroule dans un monde rétro-futuriste où, bien que de nombreuses technologies modernes aient vu le jour, les ninjas et les samouraïs sont restés de véritables puissances militaires. Chaque pays a un village, qui représente la force militaire du pays, dirigé par un Kage. Les villages, à travers leurs ninjas, se livrent des guerres les uns aux autres, à petite ou grande échelle, que ce soit pour obtenir des caractéristiques avantageuses propres aux villages ennemis, ou pour soumettre un autre village et gagner en puissance. Dans ce monde ninja, il existe neuf créatures gigantesques, appelées les « Démons à queues », qui peuvent être scellées dans un humain après une cérémonie. L'humain devient un hôte et dispose alors de la puissance du démon. Douze années avant le début du récit, l'une de ces créatures attaque le village caché des feuilles du Pays du Feu, Konoha. Elle est capturée et la moitié de son esprit a été scellée dans un nouveau-né nommé Naruto Uzumaki par le quatrième Hokage : Minato Namikaze, faisant de lui le jinjûriki (hôte) du démon à neuf queues, Kyûbi.",
+        "type": "tv",
+        "canonicalTitle": "naruto-shippuden",
+        "averageRating": 2,
+        "userCount": 55,
+        "upVoteCount": 54,
+        "startDate": "2019-05-26T21:10:13+00:00",
+        "endDate": "2023-04-26T21:10:13+00:00",
+        "nextRelease": "2023-04-26T00:00:00+00:00",
+        "popularityRank": 4,
+        "ratingRank": 25,
+        "ageRating": "string",
+        "ageRatingGuide": "string",
+        "origin": "Japon",
+        "status": "Finished",
+        "episodeCount": 33,
+        "nbrSeason": 3,
+        "episodeLength": 23,
+        "totalLength": 722,
+        "youtubeVideoId": "-G9BqkgZXRA",
+        "nsfw": false,
+        "title": {
+            "@type": "Title",
+            "@id": "/api/.well-known/genid/5d056937817b59f0e7fb",
+            "en": "Naruto Shippuden",
+            "enJp": "Naruto Shippuden",
+            "jaJp": "NNaruto Shippuden",
+            "fr": "NNaruto Shippuden"
+        },
+        "genre": [
+            {
+                "@type": "Genre",
+                "@id": "/api/.well-known/genid/80dd11d60e117afd143a",
+                "name": "Ninja",
+                "description": "Ninja",
+                "totalMediaCount": 0,
+                "slug": "ninja",
+                "nsfw": true
+            },
+            {
+                "@type": "Genre",
+                "@id": "/api/.well-known/genid/80dd11d60e117afd143a",
+                "name": "Action",
+                "description": "Action",
+                "totalMediaCount": 0,
+                "slug": "action",
+                "nsfw": true
+            },
+            {
+                "@type": "Genre",
+                "@id": "/api/.well-known/genid/80dd11d60e117afd143a",
+                "name": "Aventure",
+                "description": "Aventure",
+                "totalMediaCount": 0,
+                "slug": "aventure",
+                "nsfw": true
+            },
+        ],
+        "episode": [
+            {
+                "@id": "/api/episodes/7",
+                "@type": "Episode",
+                "canonicalTitle": "string",
+                "seasonNumber": 0,
+                "number": 0,
+                "synopsis": "string",
+                "airdate": "2023-04-26T00:00:00+00:00",
+                "length": 0,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/2902080984b13f04e737",
+                    "en": "strssssssss ss ss ing",
+                    "enJp": "string",
+                    "jaJp": "string",
+                    "fr": "string"
+                },
+                "thumbnail": []
+            }
+        ],
+        "figure": [
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+        ],
+        "staff": [
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+        ],
+        "music": [
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "TOTO",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+        ],
+        "quote": [
+            {
+                "@type": "Quote",
+                "@id": "/api/.well-known/genid/e37a0bebca70735e49fa",
+                "content": "string"
+            }
+        ],
+        "streamingLink": [
+            {
+                "@type": "StreamingLink",
+                "@id": "/api/.well-known/genid/c31c6de7b71069445a1c",
+                "url": "string",
+                "name": "string"
+            }
+        ],
+        "license": {
+            "@type": "License",
+            "@id": "/api/.well-known/genid/d9e54d3e586de81298b0",
+            "name": "string",
+            "website": "string",
+            "slug": "string",
+            "licenseImage": [
+                {
+                    "@id": "/api/create-license-image-items/1",
+                    "@type": "create-license-image-item",
+                    "name": "4423178-6457e6459f37c240954162.jpeg"
+                },
+            ],
+        },
+
+        //TODO : utiliter ?
+        "theme": [
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "Tempo",
+                "slug": "tempo",
+                "description": "tempo"
+            },
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "string",
+                "slug": "string",
+                "description": "string"
+            },
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "string",
+                "slug": "string",
+                "description": "string"
+            },
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "string",
+                "slug": "string",
+                "description": "string"
+            }
+        ],
+        "studio": {
+            "@type": "Studio",
+            "@id": "/api/.well-known/genid/379b1c85bd8c6271af4b",
+            "slogan": "string",
+            "headOffice": "Mitsubishi",
+            "direction": "Mitsubishi",
+            "activity": "Mitsubishi",
+            "product": "Mitsubishi",
+            "parentCompany": "Mitsubishi",
+            "website": "string",
+            "slug": "Mitsubishi"
+        },
+        "showType": "tv",
+        "score": 8.9,
+        "favorite": 33,
+        "avis": [
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 3.3
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 3.3
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 3.3
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            }
+        ],
+        "posterImage": [
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+        ],
+        "coverImage": [
+            {
+                "@id": "/api/create-cover-image-items/1",
+                "@type": "create-cover-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            }
+        ],
+        "relationship": [
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    },
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "string"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    },
+
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                    
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+        ]
+    },
+    {
+        "createdAt": "2023-04-26T21:10:13+00:00",
+        "updatedAt": "2023-04-26T21:10:13+00:00",
+        "slug": "naruto-shippuden",
+        "synopsis": "L'histoire commence pendant l'adolescence de Naruto, vers ses douze ans. Orphelin cancre et grand farceur, il fait toutes les bêtises possibles pour se faire remarquer. Son rêve : devenir le meilleur Hokage afin d'être reconnu par les habitants de son village. En effet, le démon renard à neuf queues scellé en lui a attisé la crainte et le mépris des autres villageois, qui, avec le temps, ne font plus de différence entre Kyûbi et Naruto. Malgré cela, Naruto s'entraîne dur afin de devenir genin, le premier niveau chez les ninjas. Après avoir raté l'examen genin 3 fois, il arrive finalement à recevoir son bandeau frontal de Konoha. Il est alors inclus dans une équipe de trois apprentis ninjas, avec Sakura Haruno et le talentueux Sasuke Uchiwa qui veut venger les personnes chères à ses yeux, en tuant son frère Itachi Uchiwa. Peu après, ils rencontrent leur jōnin (ninja de classe supérieure), celui qui s'occupera de leur formation : le mystérieux Kakashi Hatake. Au début craint et méprisé par ses pairs, Naruto va peu à peu monter en puissance et gagner le respect et l'affection des villageois grâce, notamment, aux combats dantesques qu'il remportera face aux ennemis les plus puissants du monde ninja.",
+        "description": "L'origine de Naruto se déroule dans un monde rétro-futuriste où, bien que de nombreuses technologies modernes aient vu le jour, les ninjas et les samouraïs sont restés de véritables puissances militaires. Chaque pays a un village, qui représente la force militaire du pays, dirigé par un Kage. Les villages, à travers leurs ninjas, se livrent des guerres les uns aux autres, à petite ou grande échelle, que ce soit pour obtenir des caractéristiques avantageuses propres aux villages ennemis, ou pour soumettre un autre village et gagner en puissance. Dans ce monde ninja, il existe neuf créatures gigantesques, appelées les « Démons à queues », qui peuvent être scellées dans un humain après une cérémonie. L'humain devient un hôte et dispose alors de la puissance du démon. Douze années avant le début du récit, l'une de ces créatures attaque le village caché des feuilles du Pays du Feu, Konoha. Elle est capturée et la moitié de son esprit a été scellée dans un nouveau-né nommé Naruto Uzumaki par le quatrième Hokage : Minato Namikaze, faisant de lui le jinjûriki (hôte) du démon à neuf queues, Kyûbi.",
+        "type": "tv",
+        "canonicalTitle": "naruto-shippuden",
+        "averageRating": 2,
+        "userCount": 55,
+        "upVoteCount": 54,
+        "startDate": "2019-05-26T21:10:13+00:00",
+        "endDate": "2023-04-26T21:10:13+00:00",
+        "nextRelease": "2023-04-26T00:00:00+00:00",
+        "popularityRank": 4,
+        "ratingRank": 25,
+        "ageRating": "string",
+        "ageRatingGuide": "string",
+        "origin": "Japon",
+        "status": "Finished",
+        "episodeCount": 33,
+        "nbrSeason": 3,
+        "episodeLength": 23,
+        "totalLength": 722,
+        "youtubeVideoId": "-G9BqkgZXRA",
+        "nsfw": false,
+        "title": {
+            "@type": "Title",
+            "@id": "/api/.well-known/genid/5d056937817b59f0e7fb",
+            "en": "Naruto Shippuden",
+            "enJp": "Naruto Shippuden",
+            "jaJp": "NNaruto Shippuden",
+            "fr": "NNaruto Shippuden"
+        },
+        "genre": [
+            {
+                "@type": "Genre",
+                "@id": "/api/.well-known/genid/80dd11d60e117afd143a",
+                "name": "Ninja",
+                "description": "Ninja",
+                "totalMediaCount": 0,
+                "slug": "ninja",
+                "nsfw": true
+            },
+            {
+                "@type": "Genre",
+                "@id": "/api/.well-known/genid/80dd11d60e117afd143a",
+                "name": "Action",
+                "description": "Action",
+                "totalMediaCount": 0,
+                "slug": "action",
+                "nsfw": true
+            },
+            {
+                "@type": "Genre",
+                "@id": "/api/.well-known/genid/80dd11d60e117afd143a",
+                "name": "Aventure",
+                "description": "Aventure",
+                "totalMediaCount": 0,
+                "slug": "aventure",
+                "nsfw": true
+            },
+        ],
+        "episode": [
+            {
+                "@id": "/api/episodes/7",
+                "@type": "Episode",
+                "canonicalTitle": "string",
+                "seasonNumber": 0,
+                "number": 0,
+                "synopsis": "string",
+                "airdate": "2023-04-26T00:00:00+00:00",
+                "length": 0,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/2902080984b13f04e737",
+                    "en": "strssssssss ss ss ing",
+                    "enJp": "string",
+                    "jaJp": "string",
+                    "fr": "string"
+                },
+                "thumbnail": []
+            }
+        ],
+        "figure": [
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+        ],
+        "staff": [
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+        ],
+        "music": [
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "TOTO",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+        ],
+        "quote": [
+            {
+                "@type": "Quote",
+                "@id": "/api/.well-known/genid/e37a0bebca70735e49fa",
+                "content": "string"
+            }
+        ],
+        "streamingLink": [
+            {
+                "@type": "StreamingLink",
+                "@id": "/api/.well-known/genid/c31c6de7b71069445a1c",
+                "url": "string",
+                "name": "string"
+            }
+        ],
+        "license": {
+            "@type": "License",
+            "@id": "/api/.well-known/genid/d9e54d3e586de81298b0",
+            "name": "string",
+            "website": "string",
+            "slug": "string",
+            "licenseImage": [
+                {
+                    "@id": "/api/create-license-image-items/1",
+                    "@type": "create-license-image-item",
+                    "name": "4423178-6457e6459f37c240954162.jpeg"
+                },
+            ],
+        },
+
+        //TODO : utiliter ?
+        "theme": [
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "Tempo",
+                "slug": "tempo",
+                "description": "tempo"
+            },
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "string",
+                "slug": "string",
+                "description": "string"
+            },
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "string",
+                "slug": "string",
+                "description": "string"
+            },
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "string",
+                "slug": "string",
+                "description": "string"
+            }
+        ],
+        "studio": {
+            "@type": "Studio",
+            "@id": "/api/.well-known/genid/379b1c85bd8c6271af4b",
+            "slogan": "string",
+            "headOffice": "Mitsubishi",
+            "direction": "Mitsubishi",
+            "activity": "Mitsubishi",
+            "product": "Mitsubishi",
+            "parentCompany": "Mitsubishi",
+            "website": "string",
+            "slug": "Mitsubishi"
+        },
+        "showType": "tv",
+        "score": 8.9,
+        "favorite": 33,
+        "avis": [
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 3.3
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 3.3
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 3.3
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            }
+        ],
+        "posterImage": [
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+        ],
+        "coverImage": [
+            {
+                "@id": "/api/create-cover-image-items/1",
+                "@type": "create-cover-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            }
+        ],
+        "relationship": [
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    },
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "string"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    },
+
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                    
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+        ]
+    },
+    {
+        "createdAt": "2023-04-26T21:10:13+00:00",
+        "updatedAt": "2023-04-26T21:10:13+00:00",
+        "slug": "naruto-shippuden",
+        "synopsis": "L'histoire commence pendant l'adolescence de Naruto, vers ses douze ans. Orphelin cancre et grand farceur, il fait toutes les bêtises possibles pour se faire remarquer. Son rêve : devenir le meilleur Hokage afin d'être reconnu par les habitants de son village. En effet, le démon renard à neuf queues scellé en lui a attisé la crainte et le mépris des autres villageois, qui, avec le temps, ne font plus de différence entre Kyûbi et Naruto. Malgré cela, Naruto s'entraîne dur afin de devenir genin, le premier niveau chez les ninjas. Après avoir raté l'examen genin 3 fois, il arrive finalement à recevoir son bandeau frontal de Konoha. Il est alors inclus dans une équipe de trois apprentis ninjas, avec Sakura Haruno et le talentueux Sasuke Uchiwa qui veut venger les personnes chères à ses yeux, en tuant son frère Itachi Uchiwa. Peu après, ils rencontrent leur jōnin (ninja de classe supérieure), celui qui s'occupera de leur formation : le mystérieux Kakashi Hatake. Au début craint et méprisé par ses pairs, Naruto va peu à peu monter en puissance et gagner le respect et l'affection des villageois grâce, notamment, aux combats dantesques qu'il remportera face aux ennemis les plus puissants du monde ninja.",
+        "description": "L'origine de Naruto se déroule dans un monde rétro-futuriste où, bien que de nombreuses technologies modernes aient vu le jour, les ninjas et les samouraïs sont restés de véritables puissances militaires. Chaque pays a un village, qui représente la force militaire du pays, dirigé par un Kage. Les villages, à travers leurs ninjas, se livrent des guerres les uns aux autres, à petite ou grande échelle, que ce soit pour obtenir des caractéristiques avantageuses propres aux villages ennemis, ou pour soumettre un autre village et gagner en puissance. Dans ce monde ninja, il existe neuf créatures gigantesques, appelées les « Démons à queues », qui peuvent être scellées dans un humain après une cérémonie. L'humain devient un hôte et dispose alors de la puissance du démon. Douze années avant le début du récit, l'une de ces créatures attaque le village caché des feuilles du Pays du Feu, Konoha. Elle est capturée et la moitié de son esprit a été scellée dans un nouveau-né nommé Naruto Uzumaki par le quatrième Hokage : Minato Namikaze, faisant de lui le jinjûriki (hôte) du démon à neuf queues, Kyûbi.",
+        "type": "tv",
+        "canonicalTitle": "naruto-shippuden",
+        "averageRating": 2,
+        "userCount": 55,
+        "upVoteCount": 54,
+        "startDate": "2019-05-26T21:10:13+00:00",
+        "endDate": "2023-04-26T21:10:13+00:00",
+        "nextRelease": "2023-04-26T00:00:00+00:00",
+        "popularityRank": 4,
+        "ratingRank": 25,
+        "ageRating": "string",
+        "ageRatingGuide": "string",
+        "origin": "Japon",
+        "status": "Finished",
+        "episodeCount": 33,
+        "nbrSeason": 3,
+        "episodeLength": 23,
+        "totalLength": 722,
+        "youtubeVideoId": "-G9BqkgZXRA",
+        "nsfw": false,
+        "title": {
+            "@type": "Title",
+            "@id": "/api/.well-known/genid/5d056937817b59f0e7fb",
+            "en": "Naruto Shippuden",
+            "enJp": "Naruto Shippuden",
+            "jaJp": "NNaruto Shippuden",
+            "fr": "NNaruto Shippuden"
+        },
+        "genre": [
+            {
+                "@type": "Genre",
+                "@id": "/api/.well-known/genid/80dd11d60e117afd143a",
+                "name": "Ninja",
+                "description": "Ninja",
+                "totalMediaCount": 0,
+                "slug": "ninja",
+                "nsfw": true
+            },
+            {
+                "@type": "Genre",
+                "@id": "/api/.well-known/genid/80dd11d60e117afd143a",
+                "name": "Action",
+                "description": "Action",
+                "totalMediaCount": 0,
+                "slug": "action",
+                "nsfw": true
+            },
+            {
+                "@type": "Genre",
+                "@id": "/api/.well-known/genid/80dd11d60e117afd143a",
+                "name": "Aventure",
+                "description": "Aventure",
+                "totalMediaCount": 0,
+                "slug": "aventure",
+                "nsfw": true
+            },
+        ],
+        "episode": [
+            {
+                "@id": "/api/episodes/7",
+                "@type": "Episode",
+                "canonicalTitle": "string",
+                "seasonNumber": 0,
+                "number": 0,
+                "synopsis": "string",
+                "airdate": "2023-04-26T00:00:00+00:00",
+                "length": 0,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/2902080984b13f04e737",
+                    "en": "strssssssss ss ss ing",
+                    "enJp": "string",
+                    "jaJp": "string",
+                    "fr": "string"
+                },
+                "thumbnail": []
+            }
+        ],
+        "figure": [
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+            {
+                "@id": "/api/figures/string",
+                "@type": "Figure",
+                "description": "string",
+                "role": "string",
+                "staff": {
+                    "@id": "/api/staff/string",
+                    "@type": "Staff",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "birthday": "2023-04-26T00:00:00+00:00",
+                    "biography": "string",
+                    "role": "string",
+                    "voiceActor": true,
+                    "language": "string",
+                    "website": "string",
+                    "image": [],
+                    "slug": "titi"
+                },
+                "slug": "titi",
+                "name": {
+                    "@type": "Name",
+                    "@id": "/api/.well-known/genid/ce596e1b6a34e2793d41",
+                    "romaji": "string",
+                    "english": "string",
+                    "native": "string"
+                },
+                "image": []
+            },
+        ],
+        "staff": [
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+            {
+                "@id": "/api/staff/string",
+                "@type": "Staff",
+                "firstname": "string",
+                "lastname": "string",
+                "birthday": "2023-04-26T00:00:00+00:00",
+                "biography": "string",
+                "role": "string",
+                "voiceActor": true,
+                "language": "string",
+                "website": "string",
+                "image": [],
+                "slug": "rikiki"
+            },
+        ],
+        "music": [
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "TOTO",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+            {
+                "@type": "Music",
+                "@id": "/api/.well-known/genid/228746741c8457de502a",
+                "name": "string",
+                "composer": {
+                    "@type": "Composer",
+                    "@id": "/api/.well-known/genid/e51b9c870c2791ed5fa0",
+                    "firstname": "string",
+                    "lastname": "string",
+                    "website": "string"
+                }
+            },
+        ],
+        "quote": [
+            {
+                "@type": "Quote",
+                "@id": "/api/.well-known/genid/e37a0bebca70735e49fa",
+                "content": "string"
+            }
+        ],
+        "streamingLink": [
+            {
+                "@type": "StreamingLink",
+                "@id": "/api/.well-known/genid/c31c6de7b71069445a1c",
+                "url": "string",
+                "name": "string"
+            }
+        ],
+        "license": {
+            "@type": "License",
+            "@id": "/api/.well-known/genid/d9e54d3e586de81298b0",
+            "name": "string",
+            "website": "string",
+            "slug": "string",
+            "licenseImage": [
+                {
+                    "@id": "/api/create-license-image-items/1",
+                    "@type": "create-license-image-item",
+                    "name": "4423178-6457e6459f37c240954162.jpeg"
+                },
+            ],
+        },
+
+        //TODO : utiliter ?
+        "theme": [
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "Tempo",
+                "slug": "tempo",
+                "description": "tempo"
+            },
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "string",
+                "slug": "string",
+                "description": "string"
+            },
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "string",
+                "slug": "string",
+                "description": "string"
+            },
+            {
+                "@type": "Theme",
+                "@id": "/api/.well-known/genid/0567d907ec4d8a861e88",
+                "name": "string",
+                "slug": "string",
+                "description": "string"
+            }
+        ],
+        "studio": {
+            "@type": "Studio",
+            "@id": "/api/.well-known/genid/379b1c85bd8c6271af4b",
+            "slogan": "string",
+            "headOffice": "Mitsubishi",
+            "direction": "Mitsubishi",
+            "activity": "Mitsubishi",
+            "product": "Mitsubishi",
+            "parentCompany": "Mitsubishi",
+            "website": "string",
+            "slug": "Mitsubishi"
+        },
+        "showType": "tv",
+        "score": 8.9,
+        "favorite": 33,
+        "avis": [
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 3.3
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 3.3
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 3.3
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            },
+            {
+                "@type": "Notice",
+                "@id": "/api/.well-known/genid/ead519615810b14fa86a",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien mi, bibendum at tellus eget, blandit consequat ante. Maecenas vel dignissim ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed accumsan varius mi, sit amet vestibulum massa mollis eu.",
+                "note": 4
+            }
+        ],
+        "posterImage": [
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/1",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+            {
+                "@id": "/api/create-poster-image-items/2",
+                "@type": "create-poster-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            },
+        ],
+        "coverImage": [
+            {
+                "@id": "/api/create-cover-image-items/1",
+                "@type": "create-cover-image-item",
+                "name": "4423178-6457e6459f37c240954162.jpeg"
+            }
+        ],
+        "relationship": [
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    },
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "string"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    },
+
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                    
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+            {
+                "@id": "/api/animes/string",
+                "@type": "Anime",
+                "createdAt": "2023-05-10T18:24:49+00:00",
+                "updatedAt": "2023-05-10T18:24:49+00:00",
+                "slug": "naruto-shippuden",
+                "synopsis": "string",
+                "description": "string",
+                "type": "string",
+                "canonicalTitle": "string",
+                "averageRating": 0,
+                "userCount": 0,
+                "upVoteCount": 0,
+                "startDate": "2023-05-10T18:24:49+00:00",
+                "endDate": "2023-05-10T18:24:49+00:00",
+                "nextRelease": "2023-05-10T00:00:00+00:00",
+                "popularityRank": 0,
+                "ratingRank": 0,
+                "ageRating": "string",
+                "ageRatingGuide": "string",
+                "origin": "string",
+                "status": "string",
+                "episodeCount": 0,
+                "episodeLength": 0,
+                "totalLength": 0,
+                "youtubeVideoId": "string",
+                "nsfw": true,
+                "title": {
+                    "@type": "Title",
+                    "@id": "/api/.well-known/genid/3fec8a1efecf328436e4",
+                    "en": "naruto-shippuden",
+                    "enJp": "naruto-shippuden",
+                    "jaJp": "naruto-shippuden",
+                    "fr": "naruto-shippuden"
+                },
+                "genre": [
+                    {
+                        "@type": "Genre",
+                        "@id": "/api/.well-known/genid/2b6bb655da136194c711",
+                        "name": "string",
+                        "description": "string",
+                        "totalMediaCount": 0,
+                        "slug": "string",
+                        "nsfw": true
+                    }
+                ],
+                "episode": [
+                    {
+                        "@id": "/api/episodes/2",
+                        "@type": "Episode",
+                        "canonicalTitle": "string",
+                        "seasonNumber": 0,
+                        "number": 0,
+                        "synopsis": "string",
+                        "airdate": "2023-05-10T00:00:00+00:00",
+                        "length": 0,
+                        "title": {
+                            "@type": "Title",
+                            "@id": "/api/.well-known/genid/88983e6114fef555ef1a",
+                            "en": "string",
+                            "enJp": "string",
+                            "jaJp": "string",
+                            "fr": "string"
+                        },
+                        "thumbnail": []
+                    }
+                ],
+                "figure": [
+                    {
+                        "@id": "/api/figures/string",
+                        "@type": "Figure",
+                        "description": "string",
+                        "slug": "string",
+                        "role": "string",
+                        "staff": {
+                            "@id": "/api/staff/string",
+                            "@type": "Staff",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "birthday": "2023-05-10T00:00:00+00:00",
+                            "biography": "string",
+                            "role": "string",
+                            "voiceActor": true,
+                            "language": "string",
+                            "website": "string",
+                            "image": [],
+                            "slug": "titi"
+                        },
+                        "name": {
+                            "@type": "Name",
+                            "@id": "/api/.well-known/genid/596a97ab3f614ffee427",
+                            "romaji": "string",
+                            "english": "string",
+                            "native": "string"
+                        },
+                        "image": []
+                    }
+                ],
+                "staff": [
+                    {
+                        "@id": "/api/staff/string",
+                        "@type": "Staff",
+                        "firstname": "string",
+                        "lastname": "string",
+                        "birthday": "2023-05-10T00:00:00+00:00",
+                        "biography": "string",
+                        "role": "string",
+                        "voiceActor": true,
+                        "language": "string",
+                        "website": "string",
+                        "image": [],
+                        "slug": "string"
+                    }
+                ],
+                "music": [
+                    {
+                        "@type": "Music",
+                        "@id": "/api/.well-known/genid/f7610a55c5b84378a6b0",
+                        "name": "string",
+                        "composer": {
+                            "@type": "Composer",
+                            "@id": "/api/.well-known/genid/cb7c4cd4c6230ccd12ba",
+                            "firstname": "string",
+                            "lastname": "string",
+                            "website": "string"
+                        }
+                    }
+                ],
+                "quote": [
+                    {
+                        "@type": "Quote",
+                        "@id": "/api/.well-known/genid/8f4d4d6e072158d6e4c5",
+                        "content": "string"
+                    }
+                ],
+                "streamingLink": [
+                    {
+                        "@type": "StreamingLink",
+                        "@id": "/api/.well-known/genid/00faceb6270939968b4a",
+                        "url": "string",
+                        "name": "string"
+                    }
+                ],
+                "license": {
+                    "@type": "License",
+                    "@id": "/api/.well-known/genid/2e13f8aac78ecb91dc59",
+                    "name": "string",
+                    "website": "string",
+                    "slug": "string",
+                    "licenseImage": [
+                        {
+                            "@id": "/api/create-license-image-items/1",
+                            "@type": "create-license-image-item",
+                            "name": "4423178-6457e6459f37c240954162.jpeg"
+                        },
+                    ],
+                },
+                "theme": [
+                    {
+                        "@type": "Theme",
+                        "@id": "/api/.well-known/genid/0c4620e2e06d51f66a9c",
+                        "name": "string",
+                        "slug": "string",
+                        "description": "string"
+                    }
+                ],
+                "studio": {
+                    "@type": "Studio",
+                    "@id": "/api/.well-known/genid/213c70045f5a10967ca9",
+                    "slogan": "string",
+                    "headOffice": "string",
+                    "direction": "string",
+                    "activity": "string",
+                    "product": "string",
+                    "parentCompany": "string",
+                    "website": "string",
+                    "slug": "string"
+                },
+                "showType": "string",
+                "score": 0,
+                "favorite": 0,
+                "avis": [
+                    {
+                        "@type": "Notice",
+                        "@id": "/api/.well-known/genid/3e761b767374cc06e813",
+                        "content": "string",
+                        "note": 0
+                    }
+                ],
+                "posterImage": [],
+                "coverImage": [],
+                "relationship": []
+            },
+        ]
+    },
+]
