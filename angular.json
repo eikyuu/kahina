@@ -6,7 +6,7 @@
   },
   "newProjectRoot": "projects",
   "projects": {
-    "templateproject": {
+    "kahina": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -67,10 +67,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "templateproject:build:production"
+              "buildTarget": "kahina:build:production"
             },
             "development": {
-              "buildTarget": "templateproject:build:development"
+              "buildTarget": "kahina:build:development"
             }
           },
           "defaultConfiguration": "development"

@@ -5,6 +5,6 @@ export const HOME_ROUTES: Routes = [
     path: '',
     loadComponent: () =>
       import('./home').then((m) => m.Home),
-    title: 'Home — templateproject',
+    title: 'Home — kahina',
   },
 ];

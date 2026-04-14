@@ -1,10 +1,10 @@
 import { Component, ChangeDetectionStrategy, inject, output } from '@angular/core';
 import { RouterLink } from '@angular/router';
-import { AuthService } from '../../core/auth/auth.service';
-import { ButtonComponent } from '../../shared/components/button/button.component';
+import { ButtonComponent } from '../../../shared/shared.module';
+import { AuthService } from '../../../core/core.providers';
 
 /**
- * Top-level application header.
+ * Top-level application header shell.
  * Displays the app logo, page title area, and user actions (logout).
  */
 @Component({
@@ -28,8 +28,8 @@ import { ButtonComponent } from '../../shared/components/button/button.component
           </svg>
         </button>
 
-        <a routerLink="/" class="header__logo" aria-label="templateproject home">
-          <span class="header__logo-text">templateproject</span>
+        <a routerLink="/" class="header__logo" aria-label="kahina home">
+          <span class="header__logo-text">kahina</span>
         </a>
       </div>
 
