@@ -17,9 +17,7 @@ import { ImageModule } from 'primeng/image';
   template: `
     <div class="public-shell">
 
-      
       <app-header/>
-
 
       <div class="banner-container">
         <p-image

@@ -1,9 +1,10 @@
 import { Component } from '@angular/core';
-import { ArticlesList } from "../articles/components/articles-list/articles-list";
+import { Articles } from '../articles/articles';
+import { Animes } from "../animes/animes";
 
 @Component({
   selector: 'app-home',
-  imports: [ArticlesList],
+  imports: [Articles, Animes],
   templateUrl: './home.html',
   styleUrl: './home.scss',
 })

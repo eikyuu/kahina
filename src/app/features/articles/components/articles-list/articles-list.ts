@@ -6,7 +6,7 @@ import { tap } from 'rxjs/internal/operators/tap';
 import { SlicePipe } from '@angular/common';
 
 @Component({
-  selector: 'app-articles',
+  selector: 'app-articles-list',
   imports: [ArticlesCard, SlicePipe],
   templateUrl: './article-list.html',
   styleUrl: './article-list.scss',
