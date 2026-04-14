@@ -34,7 +34,7 @@ export interface DashboardData {
 @Injectable({ providedIn: 'root' })
 export class DashboardService {
   private readonly http = inject(HttpClient);
-  private readonly base = `${environment.apiUrl}/dashboard`;
+  private readonly base = `${environment.baseUrlApi}/dashboard`;
 
   /**
    * Fetches all dashboard data (stats + activity) in a single request.

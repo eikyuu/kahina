@@ -5,7 +5,10 @@ import { CardModule } from 'primeng/card';
 @Component({
   selector: 'app-card-articles',
   imports: [ButtonModule, CardModule],
-  templateUrl: './card-articles.html',
-  styleUrl: './card-articles.scss',
+  templateUrl: './articles-card.html',
+  styleUrl: './articles-card.scss',
 })
-export class CardArticles {}
+export class ArticlesCard {
+
+  
+}

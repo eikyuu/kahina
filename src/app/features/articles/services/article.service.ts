@@ -2,6 +2,8 @@ import { HttpClient } from '@angular/common/http';
 import { inject, Injectable } from '@angular/core';
 import { Article } from '../../../core/models/article.model';
 import { environment } from '../../../../environments/environment';
+import { ARTICLES } from '../../../core/core.providers';
+import { of } from 'rxjs';
 
 @Injectable({
   providedIn: 'root',
@@ -9,13 +11,15 @@ import { environment } from '../../../../environments/environment';
 export class ArticleService {
 
   private httpClient = inject(HttpClient);
+  ARTICLES_MOCK = ARTICLES;
 
   getArticles() {
     if (environment.useMock) {
-      return this.httpClient.get<Article[]>('/assets/mocks/articles.json');
+      console.warn('Using mock data for articles');
+      return of(this.ARTICLES_MOCK['hydra:member']);
     }
-    
-    return this.httpClient.get<Article[]>('/api/articles');
+
+    return this.httpClient.get<Article[]>(`${environment.baseUrlApi}/articles`);
   }
 
 }

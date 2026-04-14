@@ -11,6 +11,6 @@ export { errorInterceptor } from './interceptors/error.interceptor';
 
 export { authGuard } from './guards/auth.guard';
 
-export { COVER_IMAGES } from './mocks/coverImage.mock';
-export { ARTICLES } from './mocks/articles.mock';
-export { ANIMES } from './mocks/animes.mock';
+export { default as ANIMES } from './mocks/animes.json';
+export { default as ARTICLES } from './mocks/articles.json';
+export { default as COVER_IMAGES } from './mocks/cover-images.json';
