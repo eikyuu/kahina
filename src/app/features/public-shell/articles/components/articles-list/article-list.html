@@ -1,5 +1,5 @@
 <div class="grid mr-0 mb-4">
-    @for(article of articles() | slice:0:6; track article.id) {
+    @for(article of articles() | slice:0:6; track article.title) {
     <div class="col-12 md:col-6 lg:col-4 flex">
         <app-card-articles [article]="article" />
     </div>

@@ -1,9 +1,9 @@
 import { HttpClient } from '@angular/common/http';
 import { inject, Injectable } from '@angular/core';
-import { Article } from '../../../core/models/article.model';
-import { environment } from '../../../../environments/environment';
-import { ARTICLES } from '../../../core/core.providers';
 import { catchError, of, retry, throwError } from 'rxjs';
+import { environment } from '../../../../../environments/environment';
+import { ARTICLES } from '../../../../core/core.providers';
+import { Article } from '../../../../core/models/article.model';
 
 @Injectable({
   providedIn: 'root',

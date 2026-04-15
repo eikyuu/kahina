@@ -16,12 +16,12 @@ export const routes: Routes = [
         path: '',
         pathMatch: 'full',
         loadChildren: () =>
-          import('./features/home/home.routes').then((m) => m.HOME_ROUTES),
+          import('./features/public-shell/home/home.routes').then((m) => m.HOME_ROUTES),
       },
       {
         path: 'auth',
         loadChildren: () =>
-          import('./features/auth/auth.routes').then((m) => m.AUTH_ROUTES),
+          import('./features/public-shell/auth/auth.routes').then((m) => m.AUTH_ROUTES),
       },
     ],
   },
@@ -36,7 +36,12 @@ export const routes: Routes = [
       {
         path: 'dashboard',
         loadChildren: () =>
-          import('./features/dashboard/dashboard.routes').then((m) => m.DASHBOARD_ROUTES),
+          import('./features/shell/dashboard/dashboard.routes').then((m) => m.DASHBOARD_ROUTES),
+      },
+      {
+        path: 'animes/create',
+        loadChildren: () =>
+          import('./features/shell/animes/animes.routes').then((m) => m.ANIMES_ROUTES),
       },
     ],
   },

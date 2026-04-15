@@ -17,7 +17,7 @@ const NAV_ITEMS: NavItem[] = [
   },
   {
     label: 'Ajout d\'anime',
-    path: '/dashboard/add-anime',
+    path: '/animes/create',
     ariaLabel: 'Ajout d\'anime',
     icon: 'M12 6v6m0 0l-2-2m2 2l2-2M3 12h18M3 12a9 9 0 1118 0 9 9 0 01-18 0z',
   }

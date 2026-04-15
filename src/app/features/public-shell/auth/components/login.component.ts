@@ -9,8 +9,9 @@ import { ReactiveFormsModule, FormBuilder, Validators } from '@angular/forms';
 import { InputTextModule } from 'primeng/inputtext';
 import { PasswordModule } from 'primeng/password';
 import { CardModule } from 'primeng/card';
-import { AuthService } from '../../../core/auth/auth.service';
-import { ButtonComponent } from '../../../shared/components/button/button.component';
+import { ButtonComponent } from '../../../../shared/shared.module';
+import { AuthService } from '../../../../core/core.providers';
+
 
 /**
  * Login page component.

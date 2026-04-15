@@ -2,11 +2,12 @@ import { inject, Injectable } from '@angular/core';
 import { throwError } from 'rxjs/internal/observable/throwError';
 import { catchError } from 'rxjs/internal/operators/catchError';
 import { retry } from 'rxjs/internal/operators/retry';
-import { environment } from '../../../../environments/environment.development';
-import { HttpClient } from '@angular/common/http';
-import { Anime } from '../../../core/models/anime.model';
-import { ANIMES } from '../../../core/core.providers';
+
 import { of } from 'rxjs';
+import { HttpClient } from '@angular/common/http';
+import { environment } from '../../../../../environments/environment';
+import { ANIMES } from '../../../../core/core.providers';
+import { Anime } from '../../../../core/models/anime.model';
 
 @Injectable({
   providedIn: 'root',
