@@ -1,4 +1,4 @@
-import { Component, ChangeDetectionStrategy, OnInit, inject } from '@angular/core';
+import { Component, ChangeDetectionStrategy, OnInit, inject, signal } from '@angular/core';
 import { DecimalPipe, DatePipe } from '@angular/common';
 import { CardModule } from 'primeng/card';
 import { TagModule } from 'primeng/tag';
@@ -6,6 +6,11 @@ import { ButtonModule } from 'primeng/button';
 import { DashboardState } from '../data-access/dashboard.state';
 import { ActivityRow, StatCard } from '../data-access/dashboard.service';
 import { ButtonComponent } from '../../../../shared/shared.module';
+import { ArticleService } from '../../../public-shell/articles/services/article.service';
+import { toSignal } from '@angular/core/rxjs-interop';
+import { tap } from 'rxjs';
+import { TableModule } from 'primeng/table';
+import { AnimesService } from '../../../public-shell/animes/services/animes.service';
 
 
 type TagSeverity = 'success' | 'warn' | 'danger' | 'info' | 'secondary' | 'contrast';
@@ -25,7 +30,7 @@ const STATUS_SEVERITY: Record<ActivityRow['status'], TagSeverity> = {
 @Component({
   selector: 'app-dashboard',
   changeDetection: ChangeDetectionStrategy.OnPush,
-  imports: [DecimalPipe, DatePipe, CardModule, TagModule, ButtonModule, ButtonComponent],
+  imports: [DecimalPipe, DatePipe, CardModule, TagModule, ButtonModule, ButtonComponent, TableModule],
   styleUrl: './dashboard.component.scss',
   template: `
     <div class="dashboard">
@@ -55,7 +60,7 @@ const STATUS_SEVERITY: Record<ActivityRow['status'], TagSeverity> = {
 
       @if (!state.isLoading() && !state.hasError()) {
         <!-- KPI cards -->
-        <section aria-label="Key performance indicators">
+        <!-- <section aria-label="Key performance indicators">
           <ul class="dashboard__stats" role="list">
             @for (stat of state.stats(); track stat.id) {
               <li>
@@ -82,10 +87,10 @@ const STATUS_SEVERITY: Record<ActivityRow['status'], TagSeverity> = {
               </li>
             }
           </ul>
-        </section>
+        </section> -->
 
         <!-- Recent activity -->
-        <section class="dashboard__activity" aria-label="Recent activity">
+        <!-- <section class="dashboard__activity" aria-label="Recent activity">
           <h2 class="dashboard__section-title">Recent Activity</h2>
 
           @if (state.activity().length === 0) {
@@ -120,13 +125,59 @@ const STATUS_SEVERITY: Record<ActivityRow['status'], TagSeverity> = {
               </div>
             </div>
           }
-        </section>
+        </section> -->
       }
+
+      <h2 class="mt-4">Liste des articles</h2>
+        <p-table [value]="articles()" stripedRows [tableStyle]="{ 'min-width': '50rem' }">
+          <ng-template #header>
+              <tr>
+                  <th>Titre</th>
+                  <th>Auteur</th>
+                  <th>Description</th>
+              </tr>
+          </ng-template>
+          <ng-template #body let-article>
+              <tr>
+                  <td>{{ article.title }}</td>
+                  <td>{{ article.author }}</td>
+                  <td>{{ article.description }}</td>
+              </tr>
+          </ng-template>
+        </p-table>
+
+      <h2 class="mt-4">Liste des animes</h2>
+      <p-table [value]="animes()" stripedRows [tableStyle]="{ 'min-width': '50rem' }">
+        <ng-template #header>
+            <tr>
+                <th>Titre</th>
+                <th>Description</th>
+            </tr>
+        </ng-template>
+        <ng-template #body let-anime>
+            <tr>
+                <td>{{ anime.title.fr }}</td>
+                <td>{{ anime.description }}</td>
+            </tr>
+        </ng-template>
+      </p-table>
     </div>
   `,
 })
 export class DashboardComponent implements OnInit {
   protected readonly state = inject(DashboardState);
+  protected readonly articleService = inject(ArticleService);
+  protected readonly animeService = inject(AnimesService);
+
+  loading = signal(true);
+
+  articles = toSignal(this.articleService.getArticles().pipe(tap(() => this.loading.set(false))), {
+    initialValue: [],
+  });
+
+  animes = toSignal(this.animeService.getAnimes().pipe(tap(() => this.loading.set(false))), {
+    initialValue: [],
+  });
 
   ngOnInit(): void {
     this.state.load();
