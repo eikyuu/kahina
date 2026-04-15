@@ -1,4 +1,4 @@
-<div class="flex flex-wrap ">
+<div class="flex flex-wrap mb-4">
     @for(anime of animes() | slice:0:8; track anime.title) {
     <div class="col-12 md:col-6 lg:col-3">
         <app-anime-card [anime]="anime" (cardClick)="onCardClick($event)" />
