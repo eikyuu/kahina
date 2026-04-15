@@ -39,9 +39,14 @@ export const routes: Routes = [
           import('./features/shell/dashboard/dashboard.routes').then((m) => m.DASHBOARD_ROUTES),
       },
       {
-        path: 'animes/create',
+        path: 'animes',
         loadChildren: () =>
           import('./features/shell/animes/animes.routes').then((m) => m.ANIMES_ROUTES),
+      },
+      {
+        path: 'articles',
+        loadChildren: () =>
+          import('./features/shell/articles/articles.routes').then((m) => m.ARTICLES_ROUTES),
       },
     ],
   },
