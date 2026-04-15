@@ -15,6 +15,12 @@ const NAV_ITEMS: NavItem[] = [
     ariaLabel: 'Dashboard',
     icon: 'M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6',
   },
+  {
+    label: 'Ajout d\'anime',
+    path: '/dashboard/add-anime',
+    ariaLabel: 'Ajout d\'anime',
+    icon: 'M12 6v6m0 0l-2-2m2 2l2-2M3 12h18M3 12a9 9 0 1118 0 9 9 0 01-18 0z',
+  }
 ];
 
 /**
