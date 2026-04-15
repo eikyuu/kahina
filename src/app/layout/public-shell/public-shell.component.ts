@@ -19,7 +19,7 @@ import { ImageModule } from 'primeng/image';
 
       <app-header/>
 
-      <div class="banner-container">
+      <!-- <div class="banner-container">
         <p-image
           class="banner"
           [src]="banner"
@@ -27,7 +27,7 @@ import { ImageModule } from 'primeng/image';
           width="100%"
           height="auto"
         />
-      </div>
+      </div> -->
 
       <main class="main" id="main-content" tabindex="-1">
         <router-outlet />
